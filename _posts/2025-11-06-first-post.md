@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "My First Post"
-date: 2025-11-07
+date: 2025-11-06 +0900
 ---
 
 # Starting My Journey  
